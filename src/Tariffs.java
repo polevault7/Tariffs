@@ -8,10 +8,16 @@ public class Tariffs {
     boolean noLimitSites;
     boolean bestSeller;
     String vk;
+    String vkImageUrl;
     String facebook;
+    String facebookImageURL;
     String classMates;
+    String classMatesImageUrl;
     String whatsUp;
+    String whatsUpImageURL;
     String viber;
+    String viberImageUrl;
     String someSite;
-    String instagram;
+    String someSiteImageUrl;
+    String instagramImageUrl;
 }
