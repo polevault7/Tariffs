@@ -6,6 +6,7 @@ public class Tariffs {
     int noLimitMinutesRussia;
     int internetTraffic;
     boolean noLimitSites;
+    boolean bestSeller;
     String vk;
     String facebook;
     String classMates;
