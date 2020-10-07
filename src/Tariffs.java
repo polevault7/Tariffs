@@ -8,6 +8,6 @@ public class Tariffs {
     boolean isNoLimitSites;
     boolean isBestSeller;
     String socialNetworksUrl;
-    boolean isConfigurableTariff;
+    boolean isConfigurable;
 
 }
